@@ -8,3 +8,4 @@ print("6 \t\t "+str(6*6))
 print("7 \t\t "+str(7*7))
 
 
+
